@@ -1,0 +1,21 @@
+.cover__overlay {
+  background: url("../../../images/cover/cover-trains.jpg") no-repeat center;
+  background-size: cover;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1184px;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+
+  position: relative;
+  overflow: hidden;
+  background-color: #2a2c2f;
+  text-decoration: none;
+  color: #fff;
+  z-index: 0;
+}
+
