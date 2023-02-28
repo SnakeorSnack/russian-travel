@@ -3,4 +3,5 @@
   flex-direction: column;
   justify-content: end;
   max-width: 456px;
+  gap: 12px;
 }
