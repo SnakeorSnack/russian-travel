@@ -1,6 +1,5 @@
 .photo-grid {
-  margin: 92px auto 0;
-  padding: 0  48px 0;
+  margin: 92px 48px 0;
   max-width: 1280px;
   display: grid;
   grid: repeat(3, 1fr) / repeat(4, 1fr);
@@ -12,6 +11,7 @@
   .photo-grid {
     grid: repeat(4, 1fr) / repeat(3, 1fr);
     gap: 14px;
+    padding: 0 48px 0;
   }
 }
 
@@ -20,7 +20,7 @@
 
     grid: repeat(6, 1fr) / repeat(2, 1fr);
     gap: 16px;
-    padding: 0 24px 88px 24px;
+    padding: 0 24px 0;
   }
 }
 @media screen and (max-width: 767px) {
