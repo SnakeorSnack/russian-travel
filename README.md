@@ -13,6 +13,7 @@
   - Nested BEM
   - HTML
   - CSS
+  - Адаптивная верстка
 
 **Link**
 
