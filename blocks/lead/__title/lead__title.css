@@ -12,7 +12,7 @@
   .lead__title {
     font-size: 65px;
     line-height: 108%;
-    max-width: calc(100% - 24*2);
+    max-width: 330px;
   }
 }
 
