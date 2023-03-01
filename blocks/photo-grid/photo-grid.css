@@ -21,6 +21,7 @@
     grid: repeat(6, 1fr) / repeat(2, 1fr);
     gap: 16px;
     padding: 0 24px 0;
+    margin: 88px 0 0;
   }
 }
 @media screen and (max-width: 767px) {
