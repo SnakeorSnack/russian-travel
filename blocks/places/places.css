@@ -6,3 +6,27 @@
   box-sizing: border-box;
 
 }
+
+@media screen and (max-width: 1279px) {
+  .places {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places {
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    max-width: 520px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .places {
+    width: 100%;
+  }
+}
