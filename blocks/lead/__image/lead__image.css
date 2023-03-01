@@ -17,7 +17,6 @@
 @media screen and (max-width: 1023px) {
   .lead__image {
     margin: 56px auto 8px;
-    object-fit: contain;
     max-height: 480px;
   }
 }
@@ -25,15 +24,12 @@
 @media screen and (max-width: 767px) {
   .lead__image {
     margin: 56px auto 8px;
-    object-fit: contain;
-    max-height: 300px;
   }
 }
 
 @media screen and (max-width: 540px) {
   .lead__image {
     margin: 40px auto 8px;
-    object-fit: contain;
     max-height: 200px;
   }
 }
